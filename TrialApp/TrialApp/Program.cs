@@ -10,6 +10,9 @@ namespace TrialApp
     {
         static void Main(string[] args)
         {
+            var test = 10;
+            var str = "313";
+            
         }
     }
 }
