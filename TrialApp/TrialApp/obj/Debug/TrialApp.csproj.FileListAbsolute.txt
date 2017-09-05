@@ -1,0 +1,6 @@
+D:\GitTrial\MytestRepo\TrialApp\TrialApp\bin\Debug\TrialApp.exe.config
+D:\GitTrial\MytestRepo\TrialApp\TrialApp\bin\Debug\TrialApp.exe
+D:\GitTrial\MytestRepo\TrialApp\TrialApp\bin\Debug\TrialApp.pdb
+D:\GitTrial\MytestRepo\TrialApp\TrialApp\obj\Debug\TrialApp.csprojResolveAssemblyReference.cache
+D:\GitTrial\MytestRepo\TrialApp\TrialApp\obj\Debug\TrialApp.exe
+D:\GitTrial\MytestRepo\TrialApp\TrialApp\obj\Debug\TrialApp.pdb
